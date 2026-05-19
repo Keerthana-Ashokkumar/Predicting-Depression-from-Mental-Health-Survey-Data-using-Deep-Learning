@@ -124,13 +124,6 @@ Tested multiple combinations of:
 • Learning rates
 • Epoch values
 
-### ✅ Best Configuration
-
-• Hidden Layers → [128, 64]
-• Dropout → 0.3
-• Learning Rate → 0.001
-• Epochs → 100
-
 ---
 
 # Model Evaluation
